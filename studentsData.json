@@ -1,0 +1,23 @@
+{
+    "Talaricheruvu": [
+        { "studentName": "Student 1", "penNumber": "PEN1", "section": "A" },
+        { "studentName": "Student 2", "penNumber": "PEN2", "section": "B" }
+    ],
+    "Boyareddypalli": [
+        { "studentName": "Student 3", "penNumber": "PEN3", "section": "A" },
+        { "studentName": "Student 4", "penNumber": "PEN4", "section": "B" }
+    ],
+    "Mantapampalli": [
+        { "studentName": "Student 5", "penNumber": "PEN5", "section": "A" },
+        { "studentName": "Student 6", "penNumber": "PEN6", "section": "B" }
+    ],
+    "Ganesh Pahad": [
+        { "studentName": "Student 7", "penNumber": "PEN7", "section": "A" },
+        { "studentName": "Student 8", "penNumber": "PEN8", "section": "B" }
+    ],
+    "Tandur": [
+        { "studentName": "Student 9", "penNumber": "PEN9", "section": "A" },
+        { "studentName": "Student 10", "penNumber": "PEN10", "section": "B" },
+        { "studentName": "Student 11", "penNumber": "PEN11", "section": "C" }
+    ]
+}
